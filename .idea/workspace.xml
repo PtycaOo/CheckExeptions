@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7bd0392-6975-4176-aa51-f2024890579d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestExeptions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CheckPhoneNumber/CheckNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CheckPhoneNumber/CheckPhoneNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DateValidator/DateValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DateValidator/DateValidatorUsingDateFormat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LengthValidator/LengthValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LengthValidator/LengthValidatorUse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReadFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WriteFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/addNewPerson.java" afterDir="false" />
+    <list default="true" id="e7bd0392-6975-4176-aa51-f2024890579d" name="Changes" comment="new commit">
+      <change beforePath="$PROJECT_DIR$/src/addNewPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/addNewPerson.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/TestExeptions",
     "onboarding.tips.debug.path": "D:/TestExeptions/src/Main.java"
@@ -70,6 +54,19 @@
       <option name="presentableId" value="Default" />
       <updated>1705394554045</updated>
     </task>
+    <task id="LOCAL-00001" summary="new commit">
+      <option name="closed" value="true" />
+      <created>1705416659632</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705416659632</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
   </component>
 </project>

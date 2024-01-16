@@ -15,10 +15,10 @@ public class addNewPerson {
         System.out.println("Введите данные в формате: Иванов Иван Иванович 03.07.1991 89990000000 M");
         String[] input = sc.nextLine().split(" ");
         if (length.lengthValidator(input) && dateFormat.isValid(input[3]) && checkPhoneNumber.isValid(input[4])) {
-            return null;
+            return input;
         }
 
-        return input;
+        return null;
     }
 
 
