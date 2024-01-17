@@ -18,6 +18,7 @@ public class DateValidatorUsingDateFormat implements DateValidator{
         try {
             sdf.parse(dateStr);
         } catch (ParseException e) {
+            System.out.println("Дата введена не верно, проверьте правильность ввода");
             return false;
         }
         return true;

@@ -1,3 +1,6 @@
+import WorkWithFile.WriteFile;
+import WorkWithFile.addNewPerson;
+
 public class Main {
     public static void main(String[] args) {
         String[] s = addNewPerson.Treatment();

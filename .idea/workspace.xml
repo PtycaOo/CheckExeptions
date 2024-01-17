@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7bd0392-6975-4176-aa51-f2024890579d" name="Changes" comment="new commit">
-      <change beforePath="$PROJECT_DIR$/src/addNewPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/addNewPerson.java" afterDir="false" />
+    <list default="true" id="e7bd0392-6975-4176-aa51-f2024890579d" name="Changes" comment="Fix addNewPerson #2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DateValidator/DateValidatorUsingDateFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DateValidator/DateValidatorUsingDateFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReadFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WorkWithFile/ReadFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WriteFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WorkWithFile/WriteFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/addNewPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WorkWithFile/addNewPerson.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +46,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/TestExeptions",
+    "last_opened_file_path": "D:/GB/CheckExeptions/CheckExeptions",
     "onboarding.tips.debug.path": "D:/TestExeptions/src/Main.java"
   }
 }]]></component>
@@ -62,11 +67,29 @@
       <option name="project" value="LOCAL" />
       <updated>1705416659632</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fix addNewPerson">
+      <option name="closed" value="true" />
+      <created>1705482260005</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705482260005</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fix addNewPerson #2">
+      <option name="closed" value="true" />
+      <created>1705482316451</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705482316451</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
+    <MESSAGE value="Fix addNewPerson" />
+    <MESSAGE value="Fix addNewPerson #2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix addNewPerson #2" />
   </component>
 </project>
