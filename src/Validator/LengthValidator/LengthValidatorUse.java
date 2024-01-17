@@ -1,4 +1,4 @@
-package LengthValidator;
+package Validator.LengthValidator;
 
 public class LengthValidatorUse implements LengthValidator{
     @Override

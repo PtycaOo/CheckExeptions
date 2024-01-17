@@ -1,4 +1,4 @@
-package GenderCheck;
+package Validator.GenderValidator;
 
 public class CheckGender implements GenderCheck{
 

@@ -1,4 +1,4 @@
-package CheckPhoneNumber;
+package Validator.PhoneValidator;
 
 public class CheckPhoneNumber implements CheckNumber{
 

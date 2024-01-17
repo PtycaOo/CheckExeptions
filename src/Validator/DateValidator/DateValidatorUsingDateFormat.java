@@ -1,4 +1,4 @@
-package DateValidator;
+package Validator.DateValidator;
 
 import java.text.DateFormat;
 import java.text.ParseException;
