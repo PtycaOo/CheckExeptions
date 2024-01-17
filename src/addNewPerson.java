@@ -18,7 +18,7 @@ public class addNewPerson {
             return input;
         }
 
-        return null;
+        return input;
     }
 
 
