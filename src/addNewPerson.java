@@ -16,9 +16,9 @@ public class addNewPerson {
         String[] input = sc.nextLine().split(" ");
         if (length.lengthValidator(input) && dateFormat.isValid(input[3]) && checkPhoneNumber.isValid(input[4])) {
             return input;
+        } else {
+            return null;
         }
-
-        return input;
     }
 
 
